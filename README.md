@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @thanujhaaSriee
+- 👀 I’m interested in solving data engineering, data science problems
+- 🌱 I’m currently working on building pipeline for a genartive AI use case
+- 📫 How to reach me thanujhaa.sriee@gmail.com
